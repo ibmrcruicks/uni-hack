@@ -1,2 +1,2 @@
 # uni-hack
-university hackathon background info
+[university hackathon background info](background.md)
