@@ -1,4 +1,4 @@
-# University hackathon introduction to IBm CLOUD
+# University hackathon introduction to IBM Cloud
 videos short courses, and essential cheat sheets
 
 ## get an IBMId and IBM Cloud login
