@@ -1,4 +1,5 @@
-University hackathon intro material - videos short courses, and essential cheat sheets
+# University hackathon introduction to IBm CLOUD
+videos short courses, and essential cheat sheets
 
 ## get an IBMId and IBM Cloud login
 short video that shows the sign up process using current UI. up to 1:45 (thereafter goes into VMWare console in Softlayer)
