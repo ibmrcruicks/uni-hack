@@ -2,8 +2,21 @@
 videos short courses, and essential cheat sheets
 
 ## get an IBMId and IBM Cloud login
-short video that shows the sign up process using current UI. up to 1:45 (thereafter goes into VMWare console in Softlayer)
+
+A short video that that shows the sign-up process for IBM Cloud through the Academic Initiative.  
+<!-- short video that shows the sign up process using current UI. up to 1:45 (thereafter goes into VMWare console in Softlayer)
 + https://www.youtube.com/watch?v=HBkY-Fs1d6E
+-->
+https://www.youtube.com/watch?v=zsubZGAOWMw
+
+The main links:
+
++ [IBM Developer link to Academic programs](https://developer.ibm.com/academic/accessresources/)
++ [Academic Initiative](https://onthehub.com/ibm)
++ following the intrusctions for the IBM Cloud section (not the Security)
+
+Once you've signed up, and received the notification email - login to the [IBM Cloud console](https://console.cloud.com)
+
 
 ## intro to bluemix/ibmcloud 
 predominantly around CloudFoundry/PaaS (david barnes most recent version - almost current IBM Cloud, before he went on sabbatical)
@@ -46,6 +59,9 @@ https://en.m.wikipedia.org/wiki/NoSQL
 ## cognitive class - watson content
 + https://cognitiveclass.ai/page/2/?s=watson
 
+## Watson cognitive services - starter kits
++ https://console.bluemix.net/developer/watson/starter-kits
+
 ## handy cheat sheets and tutorials
 HTML, CSS, JSON, bootstrap, colours, SQL, and more
 + https://www.w3schools.com/ 
@@ -54,6 +70,7 @@ HTML, CSS, JSON, bootstrap, colours, SQL, and more
 + https://guides.github.com
 + https://learn.adafruit.com/an-introduction-to-collaborating-with-version-control/overview
 
+## Markdown documentation
 for github, essential Markdown cheat sheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
++ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
