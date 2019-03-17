@@ -57,7 +57,12 @@ https://en.m.wikipedia.org/wiki/NoSQL
 
 ## Cloudant - what is it good for - all things JSON
 + https://www.youtube.com/watch?v=qdMTLK2vYoI 
-+ [python app demo for IBM Cloud](https://cloud.ibm.com/docs/services/Cloudant/tutorials?topic=cloudant-creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud#creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud)  
++ [python app demo for IBM Cloud](https://cloud.ibm.com/docs/services/Cloudant/tutorials?topic=cloudant-creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud#creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud) 
+
+## Sample JSON data server
++ https://my-json-server.typicode.com/typicode/demo
++ https://jsonplaceholder.typicode.com/users
++ https://examples.cloudant.com/movies-demo/_all_docs?include_docs=true&limit=100
 
 ## Building chatbots with Watson Assistant
 + https://www.youtube.com/watch?v=xdGaynxnt4M intro talk
