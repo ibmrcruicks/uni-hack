@@ -19,12 +19,16 @@ Once you've signed up, and received the notification email - login to the [IBM C
 
 
 ## intro to bluemix/ibmcloud 
-predominantly around CloudFoundry/PaaS (david barnes most recent version - almost current IBM Cloud, before he went on sabbatical)
+predominantly around CloudFoundry/PaaS (David Barnes most recent version - almost current IBM Cloud, before he went on sabbatical)
 + https://www.youtube.com/watch?v=GsGnyZedlFk
 
 ## introduction to developing code
-developerworks course on app dev - slightly out of date UI. create app from starter, add toolchain, intro to CLI, intro to using Eclipse.  thorough
-+ https://developer.ibm.com/courses/all/bluemix-essentials/
+IBM Developer tutorial on app dev - slightly out of date UI. Create app from starter, add toolchain, intro to CLI
+<!-- + https://developer.ibm.com/courses/all/bluemix-essentials/ -->
++ https://developer.ibm.com/tutorials/cl-bluemix-getting-started-video/
+
+and an online course that can earn you an [Open badge](https://cognitiveclass.ai/badges/ibm-cloud-essentials/)
++ https://cognitiveclass.ai/courses/ibm-cloud-essentials/
 
 ## the 12 factor app philosophy
 + https://12factor.net/
@@ -33,10 +37,16 @@ developerworks course on app dev - slightly out of date UI. create app from sta
 + https://martinfowler.com/articles/microservices.html
 
 ## using nodered for AI and IOT - introduction
++ https://nodered.org/docs/
 + https://developer.ibm.com/videos/an-introduction-to-node-red/ Brian Innes
-+ https://github.com/IBMCodeLondon/Node-RED-Watson-101 IBMCodeLondon
++ http://www.steves-internet-guide.com/node-red-overview/  Steve Cope - bite-size chunks
+
++ https://github.com/IBMDeveloperUK/NodeRED-for-AI-flows IBMdeveloperUK
 + https://cognitiveclass.ai/courses/node-red-basics-to-bots/ Soheel Chughtai
-+ https://developer.ibm.com/courses/all/blinky-lights-motion-detectors-create-fun-watson-iot-apps/   Soheel Chughtai
++ https://developer.ibm.com/courses/all/blinky-lights-motion-detectors-create-fun-watson-iot-apps/   (Soheel Chughtai)
+
+## installing nodered on IBM Cloud
++ https://www.youtube.com/watch?v=Hu2tycYTTJc
 
 ## short introduction to relation database SQL
 + https://mobile.databasejournal.com/sqletc/article.php/1469521/Introduction-to-Relational-Databases.htm
@@ -46,18 +56,15 @@ developerworks course on app dev - slightly out of date UI. create app from sta
 https://en.m.wikipedia.org/wiki/NoSQL
 
 ## Cloudant - what is it good for - all things JSON
-+ https://www.youtube.com/watch?v=qdMTLK2vYoI
-+ https://console.bluemix.net/docs/services/Cloudant/tutorials/create_database.html#creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud  python app demo
-
-## installing nodered on IBM Cloud
-+ https://www.youtube.com/watch?v=Hu2tycYTTJc
++ https://www.youtube.com/watch?v=qdMTLK2vYoI 
++ [python app demo for IBM Cloud](https://cloud.ibm.com/docs/services/Cloudant/tutorials?topic=cloudant-creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud#creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud)  
 
 ## Building chatbots with Watson Assistant
 + https://www.youtube.com/watch?v=xdGaynxnt4M intro talk
 + https://watson-assistant-demo.ng.bluemix.net guided demo
 
 ## cognitive class - watson content
-+ https://cognitiveclass.ai/page/2/?s=watson
++ https://cognitiveclass.ai/?s=watson+ai
 
 ## Watson cognitive services - starter kits
 + https://console.bluemix.net/developer/watson/starter-kits
